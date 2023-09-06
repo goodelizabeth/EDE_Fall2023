@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: "Elizabeth Good"
 output: pdf_document
 geometry: margin=2.54cm
 ---
@@ -15,7 +15,7 @@ This exercise accompanies the introductory material in Environmental Data Analyt
 3.  Work through the steps, **creating code and output** that fulfill each instruction.
 4.  Be sure to **answer the questions** in this assignment document.
 5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
-6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assigment section on Sakai.
+6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assignment section on Sakai.
 
 
 ## 1) Finish setting up R Studio
@@ -40,21 +40,25 @@ Enter answers to the questions just below the >Answer: prompt.
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
 > Answer: 
+My first experience with R was my senior year of college when I took an introductory statistics class to fullfill the prerequisit for Duke. It was very basic background work with simple functions for statistical tools. I took Duke's Applied Statistical Modeling for Environmental Management class last year which involved a significant R component including more complex functions for data manipulation, visualization, and modeling. Over the summer I worked for the US EPA doing a data analysis project comparing air quality sensor data to air monitoring data, relying totally on R to do the analyses. I gained a lot of experience with more complex functions for data manipulation and visualization, including writing my own functions and loops. There was a strong emphasis on the reproducibility of the code. This is also where I got my first experience with Git and working collaboratively on code. Informally, I started doing data analysis in college as a chemistry major, working mostly in Excel to make plots and do error calculations. 
 
 2. Are there any components of the course about which you feel confident?
 
 > Answer: 
+I'm relatively confident in my basic R skills at the moment, but I'm very interested in learning new and more efficient ways to get to an end goal. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
 > Answer: 
+While I used Git for my work over the summer, I feel like I just knew enough to get by; I never really understood how it was working. I'm slightly apprehensive about using Git for this class. I'm also not very confident with large data sets in complex formats or with variables of various classes. 
 
 
 ## 3) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer:
+https://github.com/goodelizabeth/EDE_Fall2023.git  
 
 ## 4) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Sakai. 
