@@ -3,7 +3,7 @@ title: "Intro to Data Frames in R"
 subtitle: "Environmental Data Analytics"
 author: "Luana Lima"
 date: "Fall 2023"
-output: pdf_document
+output: pdf_document 
 ---
 
 ```{r setup, include=FALSE}
@@ -33,6 +33,10 @@ Suppose you want just the column speed. How would you access that data?
 ```{r}
 cars$speed
 ```
+```{r}
+mtcars$disp
+```
+
 
 How would you store it on another object?
 
@@ -40,6 +44,7 @@ How would you store it on another object?
 car_speed <- cars$speed
 car_speed
 ```
+
 
 ## Transforming object in a data frame
 
